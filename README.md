@@ -4,6 +4,8 @@ I created a unique JavaScript project that showcases the Fire Rockets Effect usi
 
 ## Screenshot
 
-
+![Diwali](https://github.com/vatsalya-vyas/Diwali-Rockets/assets/140804211/8943074e-aa2a-44aa-bf2f-f148a0d79c58)
 
 ## Video
+
+https://github.com/vatsalya-vyas/Diwali-Rockets/assets/140804211/29399f9c-1cca-4873-b870-cfa2b0086ad5
